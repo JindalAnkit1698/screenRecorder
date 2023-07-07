@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Allow PowerShell scripts
+!*.ps1
+
+# Allow Markdown files
+!*.md
+
+!.gitignore
